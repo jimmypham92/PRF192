@@ -1,0 +1,7 @@
+main {
+    background-color: aquamarine;
+}
+
+[class*="col-"] {
+    background-color: yellow;
+}
