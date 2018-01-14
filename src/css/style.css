@@ -5,3 +5,18 @@ main {
 [class*="col-"] {
     background-color: yellow;
 }
+
+/* .dropdown-toggle {
+    border: 1px solid gray;
+} */
+
+.dropdown-menu {
+    padding-top: 0;
+    padding-bottom: 0;
+    top: 100%;
+}
+
+/* .dropdown-item {
+    border-bottom: 1px solid gray;
+    padding-left: 0.75rem;
+} */
